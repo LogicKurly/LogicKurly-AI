@@ -1,1 +1,1 @@
-# LogicKulry-AI
+# LogicKurly-AI
